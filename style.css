@@ -33,3 +33,11 @@ q
     color: #d3734c;
     font-family: 'Courier New', Courier, monospace;
 }
+table
+{
+    border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+}
+td
+{
+    border: 1px solid black;
+}
